@@ -1,0 +1,17 @@
+int n=MyIO.readInt();
+		int[] valores =new int[n];
+		int valor;
+		for(int i=0;i<n;i++){
+		 valor=MyIO.readInt();
+		 valores[i]=valor;
+		}
+      String ex=MyIO.readLine();
+      char[] exp=convertToChar(ex);
+      exp=alteraValor(exp,valores);
+      exp=or(exp,2);
+      //exp=not(exp,3);
+      for(int i=0;i<exp.length;i++){
+         if(exp[i]!='F'&&exp[i]!='V')MyIO.print(exp[i]);
+         if(exp[i]=='F')MyIO.print("0");
+         if(exp[i]=='V')MyIO.print("1");
+      }

@@ -1,0 +1,7 @@
+1) Na arvore binaria implemente o metodo para somar os elementos
+
+2) Na arvore binária implemente um metodo para contar o numero de elementos multiplos de 4
+
+3) Na arvore binária faça um metodo eficiente que retorne se existe algum multiplo de 4 em nossa arvore
+
+4) Implemente o metodo No merge(No r1,No r2) o endereço das raizes de duas árvores e retorna, uma terceira árvore contendo a uniao ou unificacao das duas anteriores 

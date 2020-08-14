@@ -1,0 +1,50 @@
+/tmp/presidente/Deodoro_da_Fonseca.html
+/tmp/presidente/Joao_Goulart.html
+/tmp/presidente/Jose_Sarney.html
+/tmp/presidente/Emilio_Garrastazu_Medici.html
+/tmp/presidente/Afonso_Pena.html
+/tmp/presidente/Nereu_Ramos.html
+/tmp/presidente/Delfim_Moreira.html
+/tmp/presidente/Humberto_de_Alencar_Castelo_Branco.html
+/tmp/presidente/Ranieri_Mazzilli.html
+/tmp/presidente/Jair_Bolsonaro.html
+/tmp/presidente/Rodrigues_Alves.html
+FIM
+35
+II /tmp/presidente/Michel_Temer.html
+IF /tmp/presidente/Epitacio_Pessoa.html
+II /tmp/presidente/Cafe_Filho.html
+II /tmp/presidente/Venceslau_Bras.html
+II /tmp/presidente/Jose_Linhares.html
+II /tmp/presidente/Hermes_da_Fonseca.html
+II /tmp/presidente/Floriano_Peixoto.html
+IF /tmp/presidente/Nilo_Pecanha.html
+II /tmp/presidente/Fernando_Collor_de_Mello.html
+II /tmp/presidente/Carlos_Luz.html
+II /tmp/presidente/Campos_Sales.html
+IF /tmp/presidente/Fernando_Henrique_Cardoso.html
+IF /tmp/presidente/Prudente_de_Moraes.html
+R* 12
+RI
+RF
+R* 13
+I* 13 /tmp/presidente/Luiz_Inacio_Lula_da_Silva.html
+I* 14 /tmp/presidente/Getulio_Vargas.html
+II /tmp/presidente/Dilma_Rousseff.html
+II /tmp/presidente/Janio_Quadros.html
+RF
+II /tmp/presidente/Juscelino_Kubitschek.html
+II /tmp/presidente/Costa_e_Silva.html
+II /tmp/presidente/Itamar_Franco.html
+I* 20 /tmp/presidente/Joao_Figueiredo.html
+I* 20 /tmp/presidente/Artur_Bernardes.html
+I* 21 /tmp/presidente/Ernesto_Geisel.html
+I* 22 /tmp/presidente/Washington_Luis.html
+I* 23 /tmp/presidente/Eurico_Gaspar_Dutra.html
+R* 10
+R* 10
+R* 11
+R* 12
+R* 13
+
+

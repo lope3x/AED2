@@ -1,0 +1,39 @@
+AVL - 
+insercao OK
+balancear OK
+TODAS as rotacoes OK
+getAltura OK
+percorrer AVL printando o fator de cada no OK
+verificar se há um no com algum fator especifico OK
+verificar quantos no's há com algum fator especifico OK
+
+
+AN - 
+isNoTipo4 OK
+hasNoTipo4 (andar pela estrutura e verificar se há um no do tipo4 , de forma eficiente)OK
+qtosNoTipo4(andar pela estrutura e verificar QUANTOS nos do tipo 4) OK
+printaro Elemento de todos os nos do tipo 4 OK
+
+Trie - 
+inserirTrie
+pesquisarTrie
+mostrarTrie OK
+contaQuantasPalavras há na arv Trie OK
+contarQuantas ocorrencias da letra enviada por parametro OK
+receber 2 letras e retornar se ha uma palavra que começa com a letra 1 e termina com a letra 2
+igual ao interior , porém contar 
+
+Trie Pat - 
+mostrarTriePat
+
+Hash - 
+refazer a Hash Doidona
+criar variações da Hash Doidona
+
+
+DESENHOS
+Arv AVL
+Arv 2.3.4
+Arv AN
+Arv Trie
+Arv Trie Pat

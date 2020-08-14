@@ -1,0 +1,14 @@
+Mat to Arv *
+Arv to Mat *
+Mat to Lista *
+Lista to Mat *
+Mat to Pilha *
+Pilha to Mat * 
+
+Arv to Pilha * 
+Pilha to Arv * 
+Arv to Lista *
+Lista to Arv *
+
+Pilha to Lista *
+Lista to Pilha *

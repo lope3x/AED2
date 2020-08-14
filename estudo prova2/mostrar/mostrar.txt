@@ -1,0 +1,14 @@
+Mat de Arv 
+Arv de Mat 
+Mat de Lista 
+Lista de Mat 
+Mat de Pilha 
+Pilha de Mat  
+
+Arv de Pilha  
+Pilha de Arv  
+Arv de Lista 
+Lista de Arv 
+
+Pilha de Lista 
+Lista de Pilha 

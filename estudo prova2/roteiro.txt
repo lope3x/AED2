@@ -1,0 +1,14 @@
+lista simples, lista dupla , fila e pilha em C e Java
+estudar metodos de remover(pos) e inserir(pos)
+
+x de y em Java
+sendo x e y qualquer estrutura flexivel
+
+refazer todos os exercícios da unidade 5a até a 6a
+refazer todos os ex passados no cardeno
+refazer todos os ex passados no lab
+
+metodo merge, getAltura, isCompleta
+metodos matriz , mostrar , getDiagPrin, getDiagSec
+TODO O METODO FEITO DAR A ANALISE DELE 
+
